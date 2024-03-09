@@ -1,4 +1,4 @@
-# 42Piscine
+# 🌊 42Piscine 🏊
 
 ## Table of Contents
 * [Piscine Description](#Piscine-Description)
@@ -22,3 +22,7 @@ This repo contains the entirety of my Piscine 42 Cursus, that i'm gonna constant
 ## Branches Description
 * **main** : Contains my initial piscine progress and new exercises
 * **piscineOnly** : Contains **only** the initial work
+
+
+> *They call it piscine cause you can drown in work and stress if not careful !*
+> *No need to worry, just do your best, be consistent, don't do all nighters (ahem-ahem) and good luck 🍀* 
