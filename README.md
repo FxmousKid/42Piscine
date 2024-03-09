@@ -1,9 +1,9 @@
 # 42Piscine
 
 ## Table of Contents
-* [Piscine Description]($Piscine-Description)
-* [My Piscine]($My-Piscine)
-* [Branches Description]($Branches-Description)
+* [Piscine Description](#Piscine-Description)
+* [My Piscine](#My-Piscine)
+* [Branches Description](#Branches-Description)
 
 
 
