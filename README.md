@@ -17,12 +17,12 @@ This repo contains the entirety of my Piscine 42 Cursus, that i'm gonna constant
 * **Location** : **42 Paris** (42MADE)
 * **Total logtime** : **290** Hours
 * **Final Exam grade** : **72/100**
-
  
+
 ## Branches Description
 * **main** : Contains my initial piscine progress and new exercises
 * **piscineOnly** : Contains **only** the initial work
-
+* **progress** : Contains **all** the progress made in the piscine, and after, regarding C modules. 
 
 > *They call it piscine cause you can drown in work and stress if not careful !*
 > *No need to worry, just do your best, be consistent, don't do all nighters (ahem-ahem) and good luck 🍀* 
